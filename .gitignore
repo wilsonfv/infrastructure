@@ -1,0 +1,11 @@
+.vagrant
+.metadata
+.idea
+package/rpm
+package/wordpress
+puppet/environments/production/data/common.yaml
+updraft
+server/common.yaml.imok-aly-ec-p01
+server/common.yaml.imok-aly-sc-d01
+server/config.imok-aly-ec-p01
+server/config.imok-aly-sc-d01

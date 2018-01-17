@@ -1,0 +1,8 @@
+project::env: local
+project::name: imok
+package::install: local
+wordpress::url: localhost:8080/blog
+wordpress::title: iMok2
+wordpress::admin: wordpress
+wordpress::adminPass: wordpress
+wordpress::adminEmail: wordpress@126.com
