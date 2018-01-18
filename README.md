@@ -5,6 +5,7 @@ Infrastructure as code, this project will use vagrant to start up a local linux 
 # Prerequisite
 * Development environment should be mac. If you are using Windows, you need to install bash environment, such as [Cygwin](https://www.cygwin.com)
 * Install [vagrant](https://www.vagrantup.com)
+* Install [virtual box](https://www.virtualbox.org)
 * A cloud server, I use [Alibaba Cloud](https://www.alibabacloud.com). Though you can test all the infrastructure on your local vagrant box without a cloud server.
 
 # Project Structure
